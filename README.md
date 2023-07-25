@@ -1,13 +1,7 @@
 # Doviz
-This project shows how i can successfully use data types&amp;arithmetic operations
+In this version of release,used Switch Case statement 
 
-Have a look at `Program.cs` and you can see how I have used :
-
-* Console input/output
-* Conversion between data types
-* Arithmetic operations
-
-
+If you want to see the old version , follow the [link](https://github.com/Stryker9898/Doviz/tree/releases/v1.0) !
 
 ## Demo
 
