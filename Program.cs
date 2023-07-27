@@ -1,4 +1,4 @@
-﻿sing System;
+﻿using System;
 namespace Doviz
 {
     class Program
