@@ -8,6 +8,7 @@ namespace Doviz
               string answer = "";
             do
             {
+                System.Console.WriteLine("");
                 Console.WriteLine("Choose one of the numbers");
                 Console.WriteLine("1. USD -> UZS");
                 Console.WriteLine("2. UZS -> USD");
